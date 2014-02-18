@@ -1,0 +1,10 @@
+/*
+Theme Name:     Delicate Child
+Theme URI: 		http://wedesignthemes.com/themes/delicate
+Author: 		the DesignThemes team
+Author URI: 	http://themeforest.net/user/designthemes
+Description:    Child theme for the Delicate theme
+Template:       dt_delicate
+Version:        1.0
+*/
+@import url("../dt_delicate/style.css");
